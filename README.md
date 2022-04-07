@@ -15,3 +15,5 @@ Total summary is looking at the statistics across all lots as a whole, while lot
 <img width="530" alt="Screen Shot 2022-04-07 at 11 02 48 AM" src="https://user-images.githubusercontent.com/95194554/162247342-ebfd8b45-7b4e-446a-b69f-8beb56dbeb86.png">
 Lot 3 is the only lot with a P-value under 0.05 making it different than lot 1 and 2. Lot 3 also has the lowest T value which is -2.0196.
 
+## Study Design: MechaCar vs Competition
+Mechacar can beat out it's competition by performing better. In order to do perform better they would need to have better prices, better fuel efficiency, and less maintenance costs. We can judge this based off P value, if the P value is greater than .05, then they will perform similar to it's competition. However, if the P value is less than .05, then it is significantly different and could perform better. 
