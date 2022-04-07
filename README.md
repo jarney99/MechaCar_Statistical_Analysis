@@ -13,3 +13,5 @@ Total summary is looking at the statistics across all lots as a whole, while lot
 ## T-Tests on Suspension Coils
 <img width="414" alt="Screen Shot 2022-04-07 at 11 02 26 AM" src="https://user-images.githubusercontent.com/95194554/162247267-0fa0f556-b763-4faa-8530-8eb3ee2b085c.png">
 <img width="530" alt="Screen Shot 2022-04-07 at 11 02 48 AM" src="https://user-images.githubusercontent.com/95194554/162247342-ebfd8b45-7b4e-446a-b69f-8beb56dbeb86.png">
+Lot 3 is the only lot with a P-value under 0.05 making it different than lot 1 and 2. Lot 3 also has the lowest T value which is -2.0196.
+
