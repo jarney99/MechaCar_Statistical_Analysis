@@ -4,4 +4,5 @@
 Vehicle weight and AWD provided a non random amount of variance. 
 Since P value is less than zero, the slope is not equal to zero. 
 Since the R squared value is 71.49%, it will be correct more often than not, so it does predict prototypes effectively. 
+
 ## Summary Statistics on Suspension Coils
