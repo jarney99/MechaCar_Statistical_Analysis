@@ -8,3 +8,4 @@ Since the R squared value is 71.49%, it will be correct more often than not, so 
 ## Summary Statistics on Suspension Coils
 <img width="497" alt="Screen Shot 2022-04-07 at 10 58 22 AM" src="https://user-images.githubusercontent.com/95194554/162246518-c0d168d7-f347-4d14-84b0-4822d80b8bd0.png">
 <img width="461" alt="Screen Shot 2022-04-07 at 10 58 38 AM" src="https://user-images.githubusercontent.com/95194554/162246569-6904ea43-4fd7-49cf-b5ea-48da6b621508.png">
+Total summary is looking at the statistics across all lots as a whole, while lot summary shows statistics individually. Lot 1 and 2 are very similar with a minor difference in mean, SD, and variance. However, lot 3 has lower mean and median, with a much higher level of variance and SD. 
